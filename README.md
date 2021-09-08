@@ -1,4 +1,4 @@
-<img width="924" alt="LogoBI2" src="https://user-images.githubusercontent.com/7377875/132598490-a41fe6b3-8e46-4bf9-ae2f-4b43ede0182a.PNG">
+<img width="600" alt="LogoBI2" src="https://user-images.githubusercontent.com/7377875/132598490-a41fe6b3-8e46-4bf9-ae2f-4b43ede0182a.PNG" />
 # Data Mining - BI Master PUC-Rio
 ## Scripts desenvolvidos durante a disciplina de DM
 
