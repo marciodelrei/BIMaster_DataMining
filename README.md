@@ -7,6 +7,7 @@
 - [Pré processamento](#pre-processamento)
 - [Classificação](#classificacao)
 - [Associação](#associação)
+- [Projeto_DM](#projeto_dm)
 
 <h2 id="analise-exploratoria">
   
