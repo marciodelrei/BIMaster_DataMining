@@ -106,6 +106,8 @@
     - Pós processamento
       - Geração de regras a partir de conjuntos de itens frequentes
 
+<h2 id="projeto_dm">
+  
 [Projeto_DM](https://github.com/marciodelrei/BIMaster_DataMining/tree/main/Projeto_DM)
   
 </h2>
