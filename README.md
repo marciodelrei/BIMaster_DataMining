@@ -106,5 +106,17 @@
     - Pós processamento
       - Geração de regras a partir de conjuntos de itens frequentes
 
+[Projeto_DM](https://github.com/marciodelrei/BIMaster_DataMining/tree/main/Projeto_DM)
+  
+</h2>
+
+ - **Projeto final da disciplina de Data Mining: Estudo de Caso: Sobrevivência de Cavalos Doentes** - Neste estudo de caso, discutimos métodos de Machine Learning aplicados à base de dados “horse.csv” com objetivo de prever se um cavalo pode sobreviver ou não com base em condições médicas anteriores. A base de dados dispõe de 299 registros e 27 atributos, sendo 1 de classificação. O código na íntegra encontra-se no notebook do Jupyter: [`Projeto_DM.ipynb`](https://github.com/marciodelrei/BIMaster_DataMining/tree/main/Projeto_DM/Projeto_DM.ipynb).
+   
+    - Integrantes:
+      - José Leonel Majewski
+      - Laís Moureira dos Santos
+      - Márcio Palma d’El-Rei Pinto
+
+
 
 
