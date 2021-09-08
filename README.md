@@ -1,6 +1,6 @@
 # Data Mining - BI Master PUC-Rio
 ## Scripts desenvolvidos durante a disciplina de DM
-
+<img width="924" alt="BI_MASTER_2021_1" src="https://user-images.githubusercontent.com/7377875/132598490-a41fe6b3-8e46-4bf9-ae2f-4b43ede0182a.PNG"></img>
 ### Índice
   
 - [Análise Exploratória](#analise-exploratoria)
